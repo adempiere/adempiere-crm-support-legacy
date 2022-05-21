@@ -19,7 +19,7 @@ package org.compiere.model;
 import java.sql.ResultSet;
 import java.util.Properties;
 
-public class MSalesStage extends org.compiere.crm.model.MCSalesStage {
+public class MSalesStage extends org.compiere.crm.model.MSalesStage {
 	
 	/**
 	 * 

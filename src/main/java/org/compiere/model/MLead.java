@@ -21,7 +21,7 @@ import java.util.Properties;
 /**
  * Lead
  */
-public class MLead extends org.compiere.crm.model.MLead {
+public class MLead extends org.compiere.crm.model.MCLead {
 
 	/**
 	 * 

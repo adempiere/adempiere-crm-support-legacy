@@ -20,7 +20,7 @@ package org.compiere.model;
 import java.sql.ResultSet;
 import java.util.Properties;
 
-public class MOpportunity extends org.compiere.crm.model.MOpportunity {
+public class MOpportunity extends org.compiere.crm.model.MCOpportunity {
 	
 	/**
 	 * 
